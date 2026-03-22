@@ -1,4 +1,4 @@
-const CACHE = 'caja-v8';
+const CACHE = 'caja-v10';
 
 self.addEventListener('install', e => {
   self.skipWaiting();
